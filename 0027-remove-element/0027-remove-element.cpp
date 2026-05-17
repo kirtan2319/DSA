@@ -6,6 +6,7 @@ public:
             if(nums[i] != val){
                 nums[index] = nums[i];
                 index++;
+                int s = 0;
             }
         }
         return index;

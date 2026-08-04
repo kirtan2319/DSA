@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kirtan2319/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/kirtan2319/DSA/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kirtan2319/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirtan2319/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirtan2319/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
 ## Sliding Window
 |  |
 | ------- |

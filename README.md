@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kirtan2319/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kirtan2319/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kirtan2319/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kirtan2319/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kirtan2319/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kirtan2319/DSA/tree/master/0027-remove-element) |
 ## String
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kirtan2319/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kirtan2319/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

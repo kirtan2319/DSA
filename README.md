@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kirtan2319/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kirtan2319/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
+| [0704-binary-search](https://github.com/kirtan2319/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kirtan2319/DSA/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kirtan2319/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

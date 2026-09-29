@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kirtan2319/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kirtan2319/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kirtan2319/DSA/tree/master/0027-remove-element) |
+| [0143-reorder-list](https://github.com/kirtan2319/DSA/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kirtan2319/DSA/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/kirtan2319/DSA/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kirtan2319/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kirtan2319/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/kirtan2319/DSA/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kirtan2319/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/kirtan2319/DSA/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |

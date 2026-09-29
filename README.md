@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kirtan2319/DSA/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/kirtan2319/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/kirtan2319/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirtan2319/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirtan2319/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kirtan2319/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kirtan2319/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

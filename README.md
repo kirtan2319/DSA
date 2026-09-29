@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kirtan2319/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kirtan2319/DSA/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/kirtan2319/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirtan2319/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/kirtan2319/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kirtan2319/DSA/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kirtan2319/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kirtan2319/DSA/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
